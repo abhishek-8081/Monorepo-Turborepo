@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./*": "./src/*.tsx",
+    ".": "./src/*.tsx",
     "./input":"./src/text-input.tsx"
   },
   "scripts": {
